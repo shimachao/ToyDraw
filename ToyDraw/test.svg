@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg width="1200" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <rect x="553" y="74" width="158" height="157" fill="none" stroke="rgb(255,0,0)" stroke-width="5" stroke-dasharray="15,5,5,5,5,5" />
+    <rect x="307" y="133" width="0" height="0" fill="none" stroke="rgb(255,0,0)" stroke-width="5" stroke-dasharray="15,5,5,5,5,5" />
+    <path type="bezier" stroke="rgb(255,0,0)" stroke-width="5" fill="none" d="M 315 233 C 279 87 552 320 597 257" stroke-dasharray="15,5,5,5,5,5" />
+    <line x1="324" y1="94" x2="324" y2="94" stroke="rgb(0,0,0)" stroke-width="1" />
+    <line x1="278" y1="219" x2="278" y2="219" stroke="rgb(0,0,0)" stroke-width="1" />
+    <line x1="444" y1="180" x2="444" y2="180" stroke="rgb(0,0,0)" stroke-width="1" />
+    <rect x="181" y="51" width="367" height="228" fill="none" stroke="rgb(255,0,0)" stroke-width="5" />
+    <line x1="273" y1="61" x2="487" y2="254" stroke="rgb(255,0,0)" stroke-width="5" stroke-dasharray="15,5,5,5,5,5" />
+</svg>

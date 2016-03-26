@@ -1,0 +1,96 @@
+选择
+图元
+全选
+方形选择
+调整大小
+笔
+颜色填充
+橡皮擦
+放大镜
+放大
+缩小
+原始大小
+像素
+图元类型
+线型
+线宽
+颜色
+调色板
+颜色吸取器
+
+椭圆
+圆
+长方形
+正方形
+曲线
+贝塞尔曲线
+
+网格
+标尺
+状态栏
+全屏
+
+旋转
+镜像
+翻转
+移动
+
+局部视图
+
+Select 
+Element 
+Select All 
+Select the square 
+Resize 
+Pen 
+Color fills 
+Eraser 
+Magnifier 
+Zoom 
+Shrink
+Original size 
+Pixel 
+Element types 
+Linetype 
+Linewidth 
+Color 
+Palette 
+Color suckers 
+
+Ellipse 
+Circle 
+Rectangle 
+Square 
+Curve 
+Bezier curves 
+
+Grid 
+Scale 
+The status bar 
+Full screen 
+
+Rotary 
+Mirror 
+Reversal 
+Move 
+
+Partial view
+
+原始大小
+百分百
+向左旋转90度
+向右旋转
+垂直翻转
+水平翻转
+旋转
+度
+
+Original size 
+Hundred percent 
+Rotate Left 90 ° 
+Rotate Right 
+Flip Vertical 
+Flip Horizontal 
+Rotation 
+Degree
+
